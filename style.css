@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+}
+header {
+    background-color: grey;
+    color: white;
+    border: 7px solid grey;
+    border-radius: 10px;
+    
+}
+header img{
+background-color: grey;
+margin: 5px
+}
+main a{
+border: 5px solid black;
+ border-radius: 10px;
+ background-color: black;
+ color: white;
+ text-decoration: none;
+}
+
+nav{
+    margin-top: 20px;
+   
+}
+   
+header a{
+    color: white
+
+}
+nav a{margin: 50px;}
+h1{
+    text-align: center;
+    background-image: linear-gradient(to right,lightgrey, grey, lightgrey);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1), 3px 4px 4px rgba(0,0,0,0.15), 4px 6px 4px rgba(0,0,0,0.2);
+border: 7px linear-gradient(to right,lightgrey, grey, lightgrey);
+border-radius: 10px;
+hover:1px sans-serif
+-webkit-text-stroke:1px #000; /* Толщина и цвет контура */
+}
+h2{
+    text-align: center;
+    background-image: linear-gradient(to right,lightgrey, grey, lightgrey);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1), 3px 4px 4px rgba(0,0,0,0.15), 4px 6px 4px rgba(0,0,0,0.2);
+border: 7px linear-gradient(to right,lightgrey, grey, lightgrey);
+border-radius: 10px;
+hover:1px sans-serif
+}
